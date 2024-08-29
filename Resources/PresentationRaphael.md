@@ -6,7 +6,7 @@ Född här i Göteborg. Familjen flyttade till Majorna, som enligt morföräldra
 ### 1985 Min första dator
 Min farmor, som föddes i Kiev 1911, hade en viss känsla för tidsandan och var övertygad om att persondatorer skulle forma framtiden. Tillsammans med en teknikintresserad vän till familjen gav de min bror en ZX Spectrum i present kring 1982, som jag sedan fick ta över när brorn skaffade en Amiga 500. 
 
-<img src="assets/speccy.jpg" width=480><img src="assets/Elite.png" width=480>
+<img src="../assets/speccy.jpg" width=480><img src="../assets/Elite.png" width=480>
 
 1985 släpptes spelet Elite (på band förstås). Jag tjatade hål i huvudet på brorn tills han lärde mig grunderna i ZX Basic och hur man ritade enkla figurer på skärmen.
 ### 1989 Kerningham and Richie C
