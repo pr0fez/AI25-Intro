@@ -1,7 +1,7 @@
 ### 1980 User raphael has logged in.
 Född här i Göteborg. Familjen flyttade till Majorna, som enligt morföräldrarna var "långt ifrån stan".
 
-<img src="assets/nordstan.jpg" width=480>
+<img src="../assets/nordstan.jpg" width=480>
 
 ### 1985 Min första dator
 Min farmor, som föddes i Kiev 1911, hade en viss känsla för tidsandan och var övertygad om att persondatorer skulle forma framtiden. Tillsammans med en teknikintresserad vän till familjen gav de min bror en ZX Spectrum i present kring 1982, som jag sedan fick ta över när brorn skaffade en Amiga 500. 
