@@ -1,9 +1,9 @@
 # Week 35 - Resources 
 
-[:house: Main page](https://github.com/pr0fez/AI24-intro)
+[:house: Main page](https://github.com/pr0fez/AI25-intro)
 
 ## Lecture slides :book:
-- [Lecture 2 - Introduction to computers](https://github.com/pr0fez/AI24-intro/blob/main/Lectures/Introduction_To_Computers.pdf)
+- [Lecture 2 - Introduction to computers](https://github.com/pr0fez/AI25-intro/blob/main/Lectures/Introduction_To_Computers.pdf)
 
 ## Videos :video_camera:
 
