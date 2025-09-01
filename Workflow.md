@@ -1,6 +1,6 @@
 # Week 36 - Resources 
 
-[:house: Main page](https://github.com/pr0fez/AI24-intro)
+[:house: Main page](https://github.com/pr0fez/AI25-intro)
 
 ## Articles :newspaper:
 
@@ -9,7 +9,7 @@ Some fundamental steps of the machine learning workflow can be found below, but 
 - [Machine learning workflow][ml_workflow]
 - [Steps in machine learning workflow][steps_ml]
 
-[ml_workflow]: https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94
+[ml_workflow]: https://medium.com/data-science/workflow-of-a-machine-learning-project-ec1dba419b94
 [steps_ml]: https://www.kdnuggets.com/2018/12/machine-learning-project-checklist.html
 
 Example of technologies used in a machine learning workflow. Note that there can be more, less or different technologies in the technology stack depending on a projects need and requirements.
