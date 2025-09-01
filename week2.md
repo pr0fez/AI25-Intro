@@ -3,7 +3,7 @@
 [:house: Main page](https://github.com/pr0fez/AI25-intro)
 
 ## Lecture slides :book:
-- [Lecture 2 - Introduction to computers](https://github.com/pr0fez/AI25-intro/blob/main/Lectures/Introduction_To_Computers.pdf)
+- [Lecture 2 - Introduction to computers](https://github.com/pr0fez/AI25-Intro/blob/master/Lectures/Lec2-Introduction_to_Computers.pdf)
 
 ## Videos :video_camera:
 
