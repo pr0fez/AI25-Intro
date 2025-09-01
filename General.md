@@ -5,7 +5,7 @@
 ## Lecture slides :book:S
 
 - [Om Raphael](https://github.com/pr0fez/AI25-intro/Resources/PresentationRaphael.md)
-- [Lecture 1 - intro to AI](https://github.com/pr0fez/AI25-intro/Lectures/Intro-Kurs-Lec1.pdf)
+- [Lecture 1 - intro to AI](https://github.com/pr0fez/AI25-Intro/blob/master/Lectures/Intro-Kurs-Lec1.pdf)
 
 ## Videos :video_camera:
 
